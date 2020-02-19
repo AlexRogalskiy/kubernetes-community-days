@@ -1,100 +1,79 @@
 ---
-title: Bouvet Island
-date: '2019-01-01'
-end: '2019-01-02'
+title: Bengaluru
+date: '2020-06-27'
+end: '2020-06-27'
 location:
-  countrycode: bv
-  country: Antarctica
-  city: Bouvet Island
-  url: https://en.wikipedia.org/wiki/Bouvet_Island
-  venue: Igloo 74
-map: bouvet-island-map.png
-sched_slug: kubernetescommunitydaybouve
+  country: India
+  city: Bengaluru
+  countrycode: in
+  url: https://en.wikipedia.org/wiki/Bangalore
+  venue: Radisson Blu Bengaluru Outer Ring Road
+map: bengaluru-raddison-map.jpg
+sched_slug: kubernetescommunitydayblr
 social:
-  twitter: 'https://twitter.com/Bouvet_3Y0Z'
+  twitter: https://twitter.com/KCDBengaluru
 sponsors:
-- level: diamond
-  size: large
+- level: Initial sponsors
   orgs:
-  - name: Oceanic Airways
-    logo: oceanic-airways.svg
-    url: https://en.wikipedia.org/wiki/Oceanic_Airlines
-- level: platinum
-  size: medium
-  orgs:
-  - name: BnL
-    logo: bnl.svg
-    url: https://pixar.fandom.com/wiki/Buy_n_Large
-- level: gold
-  size: small
-  orgs:
-  - name: Ghostbusters
-    logo: ghostbusters.svg
-    url: https://en.wikipedia.org/wiki/Ghostbusters
-  - name: Jurassic Park
-    logo: jurassic-park.svg
-    url: https://en.wikipedia.org/wiki/Jurassic_Park
-  - name: Staypuft
-    logo: staypuft.svg
-    url: https://en.wikipedia.org/wiki/Stay_Puft_Marshmallow_Man
-  - name: Duff Beer
-    logo: duff-beer.svg
-    url: https://en.wikipedia.org/wiki/Duff_Beer
-  - name: Weyland-Yutani
-    logo: weyland-yutani.svg
-    url: https://en.wikipedia.org/wiki/Alien_(franchise)#Setting
-  - name: Cyberdyne Systems
-    logo: cyberdyne-systems.svg
-    url: https://en.wikipedia.org/wiki/Skynet_(Terminator)#Films
+  - name: CloudYuga
+    logo: sponsors/cloudyuga.svg
+    url: https://cloudyuga.guru/
+  - name: MayaData
+    logo: sponsors/mayadata.svg
+    url: https://www.mayadata.io/
+  - name: Grafana
+    logo: sponsors/grafana.svg
+    url: https://grafana.com/
 speakers:
-- name: Phippy
-  image: phippy-color.png
-  twitter: https://twitter.com/cloudnativefdn
-  bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
-  homepage: https://phippy.io
-- name: Goldie
-  image: goldie-color.svg
-  twitter: https://twitter.com/cloudnativefdn
-  bio: Goldie is Phippy's best friend. Goldie is a leading expert on Volumes, which represent a location where containers can access and store information.
-  homepage: https://phippy.io
-- name: Zee
-  image: zee-color.svg
-  twitter: https://twitter.com/cloudnativefdn
-  bio: Zee is Phippy's niece.
-- name: Captain Kube
-  image: captainkube-color.svg
-  twitter: https://twitter.com/cloudnativefdn
-  bio: Captain Kube manages the ship where Phippy moved her container and is an expert on the Kubernetes project.
-  homepage: https://phippy.io
+# - name: Phippy
+#   image: team/phippy-color.png
+#   twitter: https://twitter.com/cloudnativefdn
+#   bio: Phippy is a simple PHP app, trying to find a home in a cloud native world.
+#   homepage: https://phippy.io
 organizers:
-- name: Non-Public Organization Octopus
-  image: non-public-organization-octopus-member.svg
+- name: Neependra Khare
+  image: team/neependra.jpeg
+  twitter: https://twitter.com/neependra
+  homepage: https://www.linkedin.com/in/neependra
+- name: Krishna Kumar
+  image: team/krishnan.jpeg
+  twitter: https://twitter.com/Krish_00
+  homepage: https://www.linkedin.com/in/krishna00
+- name: Ajeet Singh Raina
+  image: team/ajeet.jpeg
+  twitter: https://twitter.com/ajeetsraina
+  homepage: https://www.linkedin.com/in/ajeetsraina
+- name: Kiran Mova
+  image: team/kiranmova.jpeg
+  twitter: https://twitter.com/kiranmova
+  homepage: https://www.linkedin.com/in/kiranmova
+- name: Rajesh Challa
+  image: team/rajesh.jpeg
   twitter: https://twitter.com/cloudnativefdn
-  homepage: https://landscape.cncf.io/format=card-mode&grouping=headquarters&headquarters=bouvet-island-antarctica
-- name: Non-Public Organization Alligator
-  image: non-public-organization-alligator-member.svg
-  twitter: https://twitter.com/cloudnativefdn
-  homepage: https://landscape.cncf.io/format=card-mode&grouping=headquarters&headquarters=bouvet-island-antarctica
-- name: Non-Public Organization Quail
-  image: non-public-organization-quail-member.svg
-  twitter: https://twitter.com/cloudnativefdn
-  homepage: https://landscape.cncf.io/format=card-mode&grouping=headquarters&headquarters=bouvet-island-antarctica
-organizers_email: organizers-bouvet-island-2020@kubernetescommunitydays.org
-local_law_enforcement: 112
-medical_emergency: 112
-cfp_deadline: '2018-09-01'
-sponsor_deadline: '2018-07-14'
-extra_teams:
-- name: Program Committee
-  members:
-  - name: Ada Lovelace
-    image: captainkube-color.svg
-    twitter: https://twitter.com/cloudnativefdn
-  - name: Foo
-    image: zee-color.svg
-    twitter: https://twitter.com/cloudnativefdn
+  homepage: https://www.linkedin.com/in/rajeshchalla
+organizers_email: organizers-bengaluru@kubernetescommunitydays.org
+local_law_enforcement: 100
+medical_emergency: 108
+cfp_deadline: '2020-05-01'
+sponsor_deadline: '2020-03-31'
+#extra_teams:
+#- name: Program Committee
+#  members:
+#  - name: 
+#    image: captainkube-color.svg
+#    twitter: https://twitter.com/cloudnativefdn
 ---
 
-Kubernetes Community Day Bouvet Island was going to be the largest ever cloud native event in the Antarctic region, perhaps rivaling [KubeCon San Diego](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) in size.
+**Kubernetes Community Days Bengaluru** is happening June 27th 2020! The organisers are hard at work preparing the CFP and ticket sales. Check back regularly for updates.
 
-Please take a look at our exciting [speaker](speakers) lineup. Our event would not be possible without support of our [sponsors](sponsor). Prospective sponsors can review our [offerings](sponsor-form). We're still finalizing our [program](program) due to some challenges with arranging flights to our exciting [venue](venue). In the meantime, please review our [Code of Conduct](/code-of-conduct). Please [contact](contact) the organizers with any questions.
+{{< tweet 1225457198161109002 >}}
+
+## Want to be kept up-to-date?
+
+[Signup to get updates on Kubernetes Community Days Bengaluru](https://bit.ly/kcdblr2020)
+
+# Code of Conduct
+
+The Kubernetes Community Days are dedicated to providing a  harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](/code-of-conduct/).
+
+If you have any questions regarding the process, please contact [organizers-bengaluru@kubernetescommunitydays.org](mailto:organizers-bengaluru@kubernetescommunitydays.org).
