@@ -13,17 +13,22 @@ sched_slug: kubernetescommunitydayblr
 social:
   twitter: https://twitter.com/KCDBengaluru
 sponsors:
-- level: Initial sponsors
+- level: Now open!
   orgs:
-  - name: CloudYuga
-    logo: sponsors/cloudyuga.svg
-    url: https://cloudyuga.guru/
-  - name: MayaData
-    logo: sponsors/mayadata.svg
-    url: https://www.mayadata.io/
-  - name: Grafana
-    logo: sponsors/grafana.svg
-    url: https://grafana.com/
+  - name:
+    logo: sponsor.jpeg
+    url: /events/2020-london//sponsor
+#- level: Initial sponsors
+#  orgs:
+#  - name: CloudYuga
+#    logo: sponsors/cloudyuga.svg
+#    url: https://cloudyuga.guru/
+#  - name: MayaData
+#    logo: sponsors/mayadata.svg
+#    url: https://www.mayadata.io/
+#  - name: Grafana
+#    logo: sponsors/grafana.svg
+#    url: https://grafana.com/
 speakers:
 # - name: Phippy
 #   image: team/phippy-color.png
@@ -54,7 +59,7 @@ organizers:
 organizers_email: organizers-bengaluru@kubernetescommunitydays.org
 local_law_enforcement: 100
 medical_emergency: 108
-cfp_deadline: '2020-05-01'
+cfp_deadline: '2020-04-25'
 sponsor_deadline: '2020-03-31'
 #extra_teams:
 #- name: Program Committee

@@ -98,4 +98,4 @@ Printed Name ______________     Printed Name ______________
 
 Sponsor ___________________     Organizer _________________
 
-Please email the completed form to [info@kcdbouvetisland](mailto:info@kcdbouvetisland).
+Please email the completed form to [organizers-bengaluru@kubernetescommunitydays.org](mailto:organizers-bengaluru@kubernetescommunitydays.org).

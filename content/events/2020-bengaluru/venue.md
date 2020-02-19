@@ -4,12 +4,14 @@ title: Venue
 
 {{< venue-map >}}
 
-## Getting to Location
+## Getting to Location From Kempegowda International Airport
 
-The only way to get to Bouvet Island is by boat. Bouvet Island is approximately 2,600 km (1,600 mi) south-southwest of the coast of South Africa. There is nothing even remotely usable as a harbor, although it is possible to anchor outside of it. If you are willing to put your life at risk, you might try using a light boat with outboard engine to enter.
+### By bus:
+Take bus number KIAS-4A towards White Field TTMC (Vydehi Hospital), travel 26 stops, and exit at Marathahalli Bridge bus stop. From there, walk 1km to arrive at the hotel. 
 
-There are no developed public-access airports or landing facilities.
+### By car:
+Take the fastest route via NH 44. Typically, it takes 1 hour and 30 min to arrive at the hotel, depending on the traffic.
 
 ## Local Tranportation
 
-Local transportaion is dominated by seals, penguins, and other seabirds.
+Radisson Blu in Bengaluru is located just off Outer Ring Road, near Marathhalli.You can use this [tool](https://www.radissonhotels.com/en-us/hotels/radisson-blu-bengaluru-outer-ring-road/contact) to check for directions. 
